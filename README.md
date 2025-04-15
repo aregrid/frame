@@ -13,3 +13,9 @@
 - **Cross-Platform**: Available on web, desktop, and (soon) mobile.
 
 ---
+
+## Preview
+
+![./public/frame1.png](frame1)
+![./public/frame2.png](frame1)
+![./public/frame3.png](frame1)
