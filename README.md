@@ -1,4 +1,5 @@
 <h1 align="center">Frame: AI-Powered Video Editing with a Code-Like Creative Flow</h1>
+<h3 align="center"><i><u>Smoothly integrate open-source models and agents to optimize the next frame effortlessly.</u></i></h3>
 
 
 ![Frame 3](./public/frame-ai-assistant.png)
