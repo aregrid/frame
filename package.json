@@ -1,0 +1,17 @@
+{
+  "name": "frame",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">Frame: AI-Powered Video Editing with a Code-Like Creative Flow</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aregrid/frame.git"
+  },
+  "keywords": ["AI Agent for Video Editing", "Video Editing", "AI", "Agent", "Video"],
+  "homepage": "https://cursorfor.video/",
+  "author": "Terry Zhang <terry@llamagen.ai>",
+  "license": "MIT"
+}
